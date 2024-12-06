@@ -1,0 +1,7 @@
+**/build
+*.png
+*.jpg
+*.jpeg
+*.dat
+*.bin
+*.o
